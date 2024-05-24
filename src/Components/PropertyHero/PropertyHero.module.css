@@ -1,0 +1,92 @@
+.container{
+    width: 100%;
+    background-image: url(../../Assests/mainback.png);
+    background-repeat: no-repeat;
+    /* height: 100vh; */
+    margin-top: -6rem;
+    padding-bottom: 10rem;
+}
+
+.innerContainer{
+    width: 85%;
+    margin: auto;
+    padding-top: 18rem;
+}
+
+.innerContainer h2{
+    font-family: Lato;
+    font-size: 70px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    width: 80%;   
+    color: #FFFFFF;
+    
+
+
+}
+
+.btnFlex{
+display: flex;
+justify-content: space-between;
+margin: auto;
+/* gap: 15rem; */
+margin-bottom: 20px;
+margin-top: 40px;
+
+}
+
+.flex button{
+background: #1429A9;
+color: white;
+border: solid 1px blue;
+border-radius: 10px;
+padding: 15px 30px;
+cursor: pointer;
+
+
+font-size: 20px;  
+
+
+}
+
+.btnFlex p{
+font-family: Lato;
+font-size: 24px;
+font-weight: 400;
+line-height: 32.04px;
+text-align: left;
+width: 40%;
+color: #FFFFFF;
+}
+
+
+.heroDown{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    background: #FFFFFF;
+    padding: 1rem 4rem;
+    margin-top: 7rem;
+}
+
+.project h1{
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.41px;
+    color: #1429A9;
+
+}
+
+.project p{
+ font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 24.2px;
+color: #515151;
+
+
+
+}
+
