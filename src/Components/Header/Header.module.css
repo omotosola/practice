@@ -37,3 +37,45 @@ a{
     text-decoration: none;
     color: black;
 }
+
+.hamburger{
+    display: none;
+    
+}
+
+.mobileMenu{
+    display: none;
+}
+
+
+@media screen and (max-width: 768px) {
+    .mobileMenu{
+        position: absolute;
+        top: -100vh;
+        left: 0;
+    }
+
+    .active{
+        display: block;
+        width: 50%;
+        position: fixed;
+        top: 90px;
+        right: 0;
+        background: red;
+        transition: 0.3s;
+    }
+
+    
+
+    .hamburger{
+        display: block;
+
+    }
+
+    .navMenu{
+        display: none;
+    }
+
+
+
+}

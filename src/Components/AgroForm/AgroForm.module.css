@@ -1,0 +1,91 @@
+.container{
+    width: 85%;
+    margin: auto;
+    background-image: url(../../Assests/drivingBack.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.driveText{
+    width: 50%;
+
+}
+.driveForm{
+    width: 40%;
+}
+
+.driveText h3{
+font-family: Lato;
+font-size: 40px;
+font-weight: 700;
+line-height: 58px;
+/* text-align: left; */
+color: #FFFFFF;
+width: 90%;
+
+
+}
+
+form{
+    background:#FFFFFF ;
+    border-radius: 8px;
+    padding: 2rem 1rem;
+}
+
+form input{
+    background: #f1eeee;
+    padding: 0.5rem;
+    border-radius: 4px;
+    width: 100%;
+    margin-bottom: 1rem;
+    border: 1px solid #a8a8a8 ;
+}
+
+form h3{
+font-family: Lato;
+font-size: 37.45px;
+font-weight: 700;
+line-height: 52.42px;
+color: #1429A9;
+text-align: center;
+padding-bottom: 1rem;
+
+
+}
+
+::placeholder{
+font-family: Lato;
+font-size: 14px;
+font-weight: 400;
+line-height: 21.36px;
+color: #515151;
+
+
+}
+
+form button{
+width: 100%;
+background: #1429A9;
+color: #FFFFFF;
+
+font-family: Lato;
+font-size: 20px;
+font-weight: 700;
+line-height: 32.04px;
+cursor: pointer;
+border: none;
+border-radius: 8px;
+padding: .5rem 0;
+
+
+
+}
+
+.message{
+    padding-bottom: 4rem;
+}

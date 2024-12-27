@@ -1,0 +1,212 @@
+.container{
+    width: 85%;
+    margin: auto;
+    margin-top: 2rem;
+    padding: 2rem;
+    display: flex;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+    background-color: rgb(223, 215, 215);
+    /* justify-content: center; */
+}
+
+.secondCon{
+    width: 90%;
+    margin: auto;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    padding: 0.5rem;
+    align-items: center; 
+    justify-content: center;
+    background-color: white;
+}
+
+.topWord h3{
+font-family: Lato;
+font-size: 40px;
+font-weight: 700;
+line-height: 58px;
+/* text-align: left; */
+color: black;
+width: 70%;
+ text-align: center;
+ margin-left: 8rem;
+
+
+
+}
+
+.firstflex{
+    display: flex;
+    gap: 1rem;
+   
+
+    justify-content: space-between;
+    
+}
+
+.secondflex{
+    margin-top: 1.5rem;
+}
+
+.newflex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap:1rem;
+    
+}
+
+.choke1{
+   justify-content: center;
+   
+}
+
+
+.choke2{
+   justify-content: center;
+ 
+}
+
+form input{
+    background: #f1eeee;
+    padding: 0.5rem;
+    border-radius: 4px;
+    width: 100%;
+    margin-bottom: 1rem;
+    border: 1px solid #a8a8a8 ;
+}
+
+form{
+    background:#FFFFFF ;
+    border-radius: 8px;
+    padding: 2rem 1rem;
+}
+
+.oneflex{
+    width: 50%;
+}
+
+.secondflex{
+    width: 50%;
+}
+
+.newoneflex{
+    width: 50%;
+}
+
+.newtwoflex{
+    width: 50%;
+}
+
+.terms2{
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+.terms2 input{
+   width: 3%;
+    gap: 1rem;
+    
+}
+
+.terms2 span{
+    color: red;
+}
+
+.terms span{
+    color: red;
+}
+
+.button2 button{
+    background-color: red;
+}
+
+.oneflex h4{
+font-family: Lato;
+font-size: 20px;
+color: black;
+
+}
+
+.newoneflex h4{
+font-family: Lato;
+font-size: 20px;
+color: black;
+
+}
+
+.newtwoflex h4{
+    font-family: Lato;
+    font-size: 20px;
+    color: black;
+}
+
+.choke1 h4{
+    font-family: Lato;
+    font-size: 20px;
+    color: black;
+}
+
+.choke2 h4{
+    font-family: Lato;
+    font-size: 20px;
+    color: black;
+    width: 90%;
+}
+
+.terms h4{
+    font-family: Lato;
+    font-size: 20px;
+    color: black;
+    
+}
+
+.firstflex input{
+    background: rgb(221, 253, 221);
+    padding: 1rem;
+    border-radius: 9px;
+    width: 100%;
+    margin-bottom: 1rem;
+    border: 1px solid #a8a8a8 ;
+}
+
+.newflex input{
+    background: rgb(221, 253, 221);
+    padding: 1rem;
+    border-radius: 9px;
+    width: 100%;
+    margin-bottom: 1rem;
+    border: 1px solid #a8a8a8 ;
+}
+
+.choke1 input{
+    background: rgb(221, 253, 221);
+    padding: 1rem;
+    border-radius: 9px;
+    width: 100%;
+    margin-bottom: 1rem;
+    border: 1px solid #a8a8a8 ;
+}
+.choke2 input{
+    background: rgb(221, 253, 221);
+    padding: 1rem;
+    padding-bottom: 4.5rem;
+    border-radius: 9px;
+    border-color: green;
+    width: 100%;
+    margin-bottom: 1rem;
+    border: 1px solid #90a04a ;
+}
+
+
+.terms2 input{
+    margin-top: 0.5rem;
+   
+
+}
+
+
+
+
+

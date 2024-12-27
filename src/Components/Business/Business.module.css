@@ -1,0 +1,91 @@
+.container{
+    width: 85%;
+    margin: auto;
+
+}
+
+
+.topBiz h5{
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28.8px;
+    color: #C19D59;
+
+    
+}
+
+.topBiz h3{
+font-family: Lato;
+font-size: 40px;
+font-weight: 600;
+line-height: 48px;
+color: #1F1F21;
+width: 50%;
+margin-top: 1rem;
+margin-bottom: 2rem;
+
+
+}
+
+.cardWrap{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.myText{
+    background:#1429A9 ;
+    width: 100%;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    overflow: hidden;
+    transition: .5s ease;
+    height: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.cardImage{
+    position: relative;
+}
+
+.cardImage:hover .myText{
+    height: 100%;
+}
+
+.myText h3{
+font-family: Lato;
+font-size: 32px;
+font-weight: 600;
+line-height: 38.4px;
+color: #FFFFFF;
+margin-top: 2rem;
+
+
+}
+
+.myText p{
+font-family: Lato;
+font-size: 20px;
+font-weight: 300;
+line-height: 26.7px;
+color: #FFFFFF;
+margin-top: 1rem;
+margin-bottom: 1rem;
+
+
+}
+
+.myText h5{
+    font-family: Lato;
+font-size: 24px;
+font-weight: 700;
+line-height: 28.8px;
+color: #FFFFFF;
+
+
+}

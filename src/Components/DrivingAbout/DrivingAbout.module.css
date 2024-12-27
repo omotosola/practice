@@ -1,0 +1,165 @@
+.container{
+    width: 85%;
+    margin: auto;
+    margin-top: -6rem;
+    margin-bottom: 4rem;
+    display: flex;
+}
+
+.flexer1{
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.flexer2{
+    display: flex;
+    
+}
+
+.nil{
+    display: flex;
+    gap: 1rem;
+}
+
+.nil4{
+    display: flex;
+    gap: 1rem;
+}
+
+.nil4 h4{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 29.05px;
+    width: 40%;
+   
+    
+    color: #1F1F21;
+}
+
+.nil4 img{
+    height: 10%;
+    margin-top: 1rem;
+}
+
+.cflex{
+    width: 60%;
+}
+
+.cflex2{
+    width: 40%;
+}
+
+.heading h3{
+font-family: Lato;
+font-size: 40px;
+font-weight: 600;
+line-height: 48px;
+color: #1F1F21;
+width: 70%;
+margin-bottom: 1rem;
+
+
+}
+
+.heading p{
+font-family: Lato;
+font-size: 19px;
+font-weight: 406;
+line-height: 28.04px;
+color: #515151;
+width: 92%;
+margin-bottom: 1rem;
+
+
+}
+
+.nil h4{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 29.05px;
+    width: 60%;
+   
+    
+    color: #1F1F21;
+
+    
+
+}
+
+/* .fline p{
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+line-height: 29.4px;
+color: #515151;
+width: 90%;
+
+
+} */
+.fline0 p{
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29.4px;
+    color: #515151;
+    width: 70%;
+    
+    
+    }
+
+.fline1 p{
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29.4px;
+    color: #515151;
+    width: 89%;
+    
+    
+    }
+
+.fline2 p{
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29.4px;
+    color: #515151;
+    width: 60%;
+    
+    
+    }
+
+    .fline3 p{
+        font-family: Lato;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 29.4px;
+        color: #515151;
+        width: 68%;
+        
+        
+        }
+
+    .cflex2{
+        display: flex;
+        gap: 5rem;
+    }    
+
+    .p1 img{
+        position: absolute;
+        z-index: -1;
+        width: 23%;
+        margin-left: 12rem;
+    }
+
+    .p2 img{
+        width: 85%;
+        margin-right: 8rem;
+        margin-top: 13rem;
+    }
+
+   .fline3{
+    margin-right: -12rem;
+   }
